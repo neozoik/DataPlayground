@@ -1,36 +1,46 @@
-# DataPlayground
+
+
+
+# Data Playground ()
 Data Science solutions Playground
 
-Machine Learning implementation example (incomplete personal GPS Data from last 2 years)
+
+**Machine Learning implementation example** 
+(incomplete personal GPS Data from last 2 years)
 
 DataExampleUno []
-LinkToDataSet 
-  [[http://bit.ly/2hN3t1S], PreProcessedData]
-List of pre-processing method to implement 
-  [Cluster analysis[day of week, part of day, movement speed, chaotic/ordered], Dimensionality reduction [linear mapping]]
+
+[RawData](https://http://bit.ly/2hN3t1S/)
+[PreProcessedData](https://http://bit.ly/2hN3t1S/)
+
+List of pre-processing method to implement: 
+Cluster analysis[day of week, part of day, movement speed, chaotic/ordered] 
+Dimensionality reduction [linear mapping]
   
 List of ML techniques to implement
 
-> Anomaly detection
-> Structured prediction
-> Reinforcement learning
-> Supervised learning
+ - Anomaly detection  
+ - Structured prediction  
+ - Reinforcement learning
+ - Supervised learning
 
-List of NNs 
-  CNN(context recognition, IR), LSTM(context recognition, AR),Generative Adversarial Networks GAN ]
-> **Note:**
-> Visualization for 
-> CV
-> LinkedIn
-> Article 
-> Training process visualization
-> Dataset visualization
-> Working trained NN visualization
-> Illustration of the architecture
+# List of NNs 
+  
 
+ 1. CNN convolutional neural network, context recognition   
+ 2. LSTM Long Short Term Memory network, context recognition
+ 3. GAN Generative Adversarial Networks
 
+  
+# Visualization for 
 
-
+ - CV 
+ - LinkedIn 
+ - Article
+ - Training process visualization 
+ - Dataset visualization
+ - Working trained NN visualization
+ - Illustration of the architecture
 
 # Supervised learning CNN
 > Point is to pretrain CNN on pre-labeled data for context activity recognition.
@@ -46,5 +56,4 @@ GANs will be used to draw walking route, given an desirable category and a rando
 Sometimes, we only need to look at recent information to perform the present task. For example, consider a movement model trying to predict the next destination based on the previous ones. If we are trying to predict the last point in stable sequence we don’t need any further context – it’s pretty obvious the next point is going to be as usual. In such cases, where the gap between the relevant information and the place that it’s needed is small, RNNs can learn to use the past information.
 Unfortunately, as that gap grows, RNNs become unable to learn to connect the information.
 Long Short Term Memory networks – usually just called “LSTMs” – are a special kind of RNN, capable of learning long-term dependencies. They work tremendously well on a large variety of problems, and are now widely used.
-
 LSTMs are explicitly designed to avoid the long-term dependency problem. Remembering information for long periods of time is practically their default behavior, not something they struggle to learn!
