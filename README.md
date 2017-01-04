@@ -2,7 +2,7 @@
 
 
 # Data Playground ()
-Data Science solutions Playground
+[Data Science solutions Playground]
 
 
 **Machine Learning implementation example** 
