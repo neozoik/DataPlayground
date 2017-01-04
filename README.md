@@ -22,11 +22,11 @@ illustration of the architecture
 
 
 
-Supervised learning (pretrain CNN on pre-labeled data for context recognition )
-*Generative Adversarial Networks GAN* 
-GANs solve a problem by training two separate networks with competitive goals.
-one network produces answers (generative)
-another network distinguishes between the real and the generated answers (adversarial)
+# Supervised learning 
+Point is to pretrain CNN on pre-labeled data for context activity recognition.
+
+# Generative Adversarial Networks GAN
+GANs solve a problem by training two separate networks with competitive goals.One network produces prediction for walking route  (generative) another network distinguishes between the real path and the generated route (adversarial).
 The concept it to train these network competitively, so that after some time, neither network can make further progress against the other. Or the generator becomes so effective that the adversarial network can not distinguish between real and synthetic solutions, even with unlimited time and substantial resources.
-The details are interesting, but let’s put those aside for now. GANs are being used to draw images, given an image category and a random seed:
-“draw me a woodpecker, and it can’t be one of the woodpeckers that I showed you before.”
+GANs will be used to draw walking route, given an desirable category and a random rule:
+“draw me a evening walking route, and it can’t be one of the paths that I walked before.”
