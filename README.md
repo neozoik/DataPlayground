@@ -29,7 +29,7 @@ List of ML techniques to implement
 
  1. CNN convolutional neural network, context recognition   
  2. LSTM Long Short Term Memory network, context recognition
- 3. GAN Generative Adversarial Networks
+ 3. GAN Generative Adversarial Networks [http://www.kdnuggets.com/2017/01/generative-adversarial-networks-hot-topic-machine-learning.html]
 
   
 # Visualization for 
