@@ -27,18 +27,19 @@ List of ML techniques to implement
 # List of NNs 
   
 
- 1. CNN convolutional neural network, context recognition   
- 2. LSTM Long Short Term Memory network, context recognition
+ 1. CNN convolutional neural network, context recognition [https://colah.github.io/posts/2014-07-Conv-Nets-Modular/][https://colah.github.io/posts/2014-07-Understanding-Convolutions/]   
+ 2. LSTM Long Short Term Memory network, context recognition [https://colah.github.io/posts/2015-08-Understanding-LSTMs/]
  3. GAN Generative Adversarial Networks [http://www.kdnuggets.com/2017/01/generative-adversarial-networks-hot-topic-machine-learning.html]
 
   
 # Visualization for 
+[https://colah.github.io/posts/2015-01-Visualizing-Representations/]
 
  - CV 
  - LinkedIn 
  - Article
  - Training process visualization 
- - Dataset visualization
+ - Dataset visualization 
  - Working trained NN visualization
  - Illustration of the architecture
 
