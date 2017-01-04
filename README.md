@@ -42,16 +42,16 @@ List of ML techniques to implement
  - Working trained NN visualization
  - Illustration of the architecture
 
-# Supervised learning CNN
+# Supervised learning - convolutional neural network CNN
 > Point is to pretrain CNN on pre-labeled data for context activity recognition.
 
-# Generative Adversarial Networks GAN
+# Structured prediction - generative adversarial network GAN
 > GANs solve a problem by training two separate networks with competitive goals.One network produces prediction for walking route  (generative) another network distinguishes between the real path and the generated route (adversarial).
 The concept it to train these network competitively, so that after some time, neither network can make further progress against the other. Or the generator becomes so effective that the adversarial network can not distinguish between real and synthetic solutions, even with unlimited time and substantial resources.
 GANs will be used to draw walking route, given an desirable category and a random rule:
 “draw me a evening walking route, and it can’t be one of the paths that I walked before.”
 
-# LSTM 
+# Anomaly detection - long short term memory network LSTM 
 > One of the appeals of RNNs is the idea that they might be able to connect previous information to the present task, such as using previous walking route might inform the understanding of the future destination.
 Sometimes, we only need to look at recent information to perform the present task. For example, consider a movement model trying to predict the next destination based on the previous ones. If we are trying to predict the last point in stable sequence we don’t need any further context – it’s pretty obvious the next point is going to be as usual. In such cases, where the gap between the relevant information and the place that it’s needed is small, RNNs can learn to use the past information.
 Unfortunately, as that gap grows, RNNs become unable to learn to connect the information.
