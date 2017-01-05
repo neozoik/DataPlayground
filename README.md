@@ -36,12 +36,12 @@ List of ML techniques to implement
 [https://colah.github.io/posts/2015-01-Visualizing-Representations/]
 
  - CV 
- - LinkedIn 
- - Article
+ - LinkedIn profile
+ - Article for social media
  - Training process visualization 
  - Dataset visualization 
  - Working trained NN visualization
- - Illustration of the architecture
+ - Illustration of the architecture with 
 
 # Supervised learning - convolutional neural network CNN
 > Point is to pretrain CNN on pre-labeled data for context activity recognition.
