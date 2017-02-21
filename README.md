@@ -7,7 +7,7 @@
 Here we will apply data mining techniques in a real world case study. The case study concerns nash equilibrium in personal fitness context (walking), but the principles apply equally to any personal assessment involving individual-level correction. This repo is really a "lab" for practically testing our skills in a real world context. Facility with R or Python will be uncovered, and some familiarity with predictive modeling and time series analysis.
 
 > Note:  This project is about personal data study and uplift modeling. 
-> The data in the course are Ihar Rubanau GPS coordinates collected by
+> The data in the course are Ihar Rubanau (IR) GPS coordinates collected by
 > smartphone in period ~2 years , as the domain is relatively standard
 > and likely to be familiar to most of you, hence the case is ideal as a
 > real-world case study for analytics and machine learning and to who
