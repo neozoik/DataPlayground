@@ -1,6 +1,40 @@
 Machine learning developers need to model a growing range of multi-partner scenarios where many learning agents and data sources interact under varying degrees of trustworthiness. 
 We helps to take next step towards continuous intelligence.
 
+
+# Data Playground (Predictive Analytics Project Capstone) 
+
+Here we will apply data mining techniques in a real world case study. The case study concerns nash equilibrium in personal fitness context (walking), but the principles apply equally to any personal assessment involving individual-level correction. This repo is really a "lab" for practically testing our skills in a real world context. Facility with R or Python will be uncovered, and some familiarity with predictive modeling and time series analysis.
+
+> Note:  This project is about personal data study and uplift modeling. 
+> The data in the course are Ihar Rubanau (IR) GPS coordinates collected by
+> smartphone in period ~2 years , as the domain is relatively standard
+> and likely to be familiar to most of you, hence the case is ideal as a
+> real-world case study for analytics and machine learning and to who
+> need to be prepared to apply their analytical skills in everyday life
+> situations.
+
+[Data Science solutions Playground]
+
+ - Data Mining 
+ - Anomaly Detection Deep learning 
+ - Persuasion Analytics
+ - Interactive Data Visualization
+ - Meta Analysis
+ - Introduction to Design of Experiments
+ - Discrete Choice Modeling and Conjoint Analysis
+ - Forecasting Analytics
+ - Survival Analysis
+
+
+
+
+
+
+
+
+
+
 # Startups: Launching An ML
 8 weeks to build a first viable product enchancher, forge new possibilities, and launch your own R&D division.
 Course Level: Beginner   |   Prerequisites: None   |   COURSE IS AVALIABLE BOTH ON-CAMPUS AND ON-LINE
