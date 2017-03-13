@@ -2,7 +2,6 @@
 # Google Cloud & YouTube-8M Video Understanding Challenge
 [https://www.kaggle.com/c/youtube8m]
 
-
 # Data Playground (Predictive Analytics Project Capstone) 
 
 
