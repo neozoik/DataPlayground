@@ -18,6 +18,7 @@ Here we will apply data mining techniques in a real world case study. The case s
 > need to be prepared to apply their analytical skills in everyday life
 > situations.
 
+
 [Data Science solutions Playground version 1.0]
 
  - Data Mining 
