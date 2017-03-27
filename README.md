@@ -14,7 +14,6 @@ Here we will apply data mining techniques in a real world case study. The case s
 > need to be prepared to apply their analytical skills in everyday life
 > situations.
 
-
 [Data Science solutions Playground version 1.0]
 
  - Data Mining 
@@ -28,8 +27,6 @@ Here we will apply data mining techniques in a real world case study. The case s
  - Survival Analysis
 
 # Data Mining (R) 
-
-
 
 In this part, “Data Mining (R),” we will implement partitioning data and use a holdout sample, measure the performance of predictive models, and what to do about the problem of overfitting.  Popular classification methods (logistic regression, k-nearest-neighbors, classification trees) and prediction methods (linear regression and regression trees) will be discussed.  Collaborative filtering and association rules are also under investigation :)
 
