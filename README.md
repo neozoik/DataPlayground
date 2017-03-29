@@ -382,3 +382,4 @@ Sometimes, we only need to look at recent information to perform the present tas
 Unfortunately, as that gap grows, RNNs become unable to learn to connect the information.
 Long Short Term Memory networks – usually just called “LSTMs” – are a special kind of RNN, capable of learning long-term dependencies. They work tremendously well on a large variety of problems, and are now widely used.
 LSTMs are explicitly designed to avoid the long-term dependency problem. Remembering information for long periods of time is practically their default behavior, not something they struggle to learn!
+
