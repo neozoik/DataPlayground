@@ -2,7 +2,6 @@
 # Google Cloud & YouTube-8M Video Understanding Challenge
 [https://www.kaggle.com/c/youtube8m]
 
-
 # Data Playground (Predictive Analytics Project Capstone) 
 
 Here we will apply data mining techniques in a real world case study. The case study concerns nash equilibrium in personal fitness context (walking), but the principles apply equally to any personal assessment involving individual-level correction. This repo is really a "lab" for practically testing our skills in a real world context. Facility with R or Python will be uncovered, and some familiarity with predictive modeling and time series analysis.
