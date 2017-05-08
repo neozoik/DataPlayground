@@ -1,7 +1,4 @@
 
-
-
-
 # Google Cloud & YouTube-8M Video Understanding Challenge
 [https://www.kaggle.com/c/youtube8m]
 
