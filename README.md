@@ -1,4 +1,6 @@
 
+
+
 # Google Cloud & YouTube-8M Video Understanding Challenge
 [https://www.kaggle.com/c/youtube8m]
 
@@ -13,6 +15,8 @@ Here we will apply data mining techniques in a real world case study. The case s
 > real-world case study for analytics and machine learning and to who
 > need to be prepared to apply their analytical skills in everyday life
 > situations.
+
+
 
 [Data Science solutions Playground version 1.0]
 
