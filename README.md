@@ -43,6 +43,7 @@ K-nearest neighbors classification
 Multiple linear regression
 Classification and regression trees
 
+
 **3:  Logistic Regression**
 Propensities and ranking
 
